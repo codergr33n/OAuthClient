@@ -31,7 +31,7 @@ If you would like to contribute, great!  I wouldn't mind additions to the librar
 
 ### Usage
 
-```
+``` java
 OAuthClient client = new OAuthClient(new URI(OAuthConstants.TokenEndpoint)
                         , "roclient"
                         , "secret"
